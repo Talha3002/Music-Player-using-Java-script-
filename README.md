@@ -1,2 +1,2 @@
 Music Player
-Javascript with html css frontend project
+Javascript with html css frontend project.
